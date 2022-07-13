@@ -1,0 +1,21 @@
+{
+  "name": "typescript_lect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build":"tsc --watch src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamataingole125/TYPESCRIPT_LECTURE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mamataingole125/TYPESCRIPT_LECTURE/issues"
+  },
+  "homepage": "https://github.com/mamataingole125/TYPESCRIPT_LECTURE#readme"
+}
